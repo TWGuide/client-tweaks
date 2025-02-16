@@ -1,29 +1,30 @@
-This guide has been moved from Discord to Github to avoid potential issues and limitations.
-This is the reason for the somewhat strange structure and steps splitting in this guide, but it works just as well either way, so no biggie!
-<-
+This guide has been moved from Discord to Github to avoid potential issues and limitations.  
+This is the reason for the somewhat strange structure and steps splitting in this guide, but it works just as well either way, so no biggie!  
 
 # Welcome to the Vanilla WoW (1.12.1) client tweaks guide!
 
-The Vanilla WoW 1.12.1 client that Turtle WoW is built upon is now nearly 20 years old, and it's far from flawless. The following "client mods" or "client tweaks" aim to provide you a better gameplay experience by fixing issues and adding some features we've come to expect over the years.
+The Vanilla WoW 1.12.1 client that Turtle WoW is built upon is now nearly 20 years old, and it's far from flawless. The following "client mods" or "client tweaks" aim to provide you a better gameplay experience by fixing issues and adding some features we've come to expect over the years.  
 
-Information regarding each individual tweak/mod can be found via the links provided below.
+Information regarding each individual tweak/mod can be found via the links provided below.  
 
-### This guide includes step-by-step guidance on how to install the following tweaks/mods:
+### This guide includes step-by-step guidance on how to install the following tweaks/mods:  
 * [VanillaFixes](<https://github.com/hannesmann/vanillafixes>) (+ [DXVK](<https://github.com/doitsujin/dxvk>))  
-* [Vanilla-Tweaks](<https://github.com/brndd/vanilla-tweaks>)
-* [SuperWoW](<https://github.com/balakethelock/SuperWoW>) (+ [SuperAPI](<https://github.com/balakethelock/SuperAPI>) for in-game options)
+* [Vanilla-Tweaks](<https://github.com/brndd/vanilla-tweaks>)  
+* [SuperWoW](<https://github.com/balakethelock/SuperWoW>) (+ [SuperAPI](<https://github.com/balakethelock/SuperAPI>) for in-game options)  
 
-There are several additional tweaks/mods out there, but these are the most essential ones that I would recommend to every single player.
+There are several additional tweaks/mods out there, but these are the most essential ones that I would recommend to every single player.  
 
 <details>
 <summary> Step 1 (Click me) </summary>
 
 # Client Tweaks - Step 1
 
-Before we start we must disable our Antivirus software and add TurtleWoW's game folder to exclusions.
-This is to ensure that Windows Defender (or any other antivirus software you may have) doesn't delete any of the files.
-**The explanation for why AV software false flags VanillaFixes can be found on the [VanillaFixes - Releases](<https://github.com/hannesmann/vanillafixes/releases>) page. **
--# In short, there's no way for antivirus software to differentiate between VanillaFixes, which *we want* to inject the mod DLL's into our game, and a malicious DLL injector that would be used for nefarious purposes. As a result it considers VanillaFixes a virus/malware even though it's not.
+Before we start we must disable our Antivirus software and add TurtleWoW's game folder to exclusions.  
+This is to ensure that Windows Defender (or any other antivirus software you may have) doesn't delete any of the files.  
+> [!NOTE]
+> The explanation for why AV software false flags VanillaFixes can be found on the [VanillaFixes - Releases](<https://github.com/hannesmann/vanillafixes/releases>) page.  
+
+> In short, there's no way for antivirus software to differentiate between VanillaFixes, which *we want* to inject the mod DLL's into our game, and a malicious DLL injector that would be used for nefarious purposes. As a result it considers VanillaFixes a virus/malware even though it's not. 
 
 ### These are the steps shown in the video below:
 1. Open **Windows Defender** / **Windows Security**
