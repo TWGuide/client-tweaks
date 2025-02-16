@@ -43,7 +43,7 @@ This is to ensure that Windows Defender (or any other antivirus software you may
 
 
 <details>
-<summary> Step 2 - Download VF </summary>
+<summary> Step 2 - Download VanillaFixes </summary>
 
 ## Client Tweaks - Step 2
 Now, let's download our first actual client tweak, we'll start with VanillaFixes!
@@ -60,7 +60,7 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 
 
 <details>
-<summary> Step 3 - Extract VF </summary>
+<summary> Step 3 - Extract VanillaFixes </summary>
 
 ## Client Tweaks - Step 3
 Time to extract VanillaFixes and place it in the game folder!
@@ -79,7 +79,7 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 </details>
 
 <details>
-<summary> Step 4 - Download VT </summary>
+<summary> Step 4 - Download Vanilla-Tweaks </summary>
 
 ## Client Tweaks - Step 4  
 Now let's download Vanilla-Tweaks  
@@ -96,7 +96,7 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 </details>
 
 <details>
-<summary> Step 5 - Apply VT </summary>
+<summary> Step 5 - Apply Vanilla-Tweaks </summary>
 
 ## Client Tweaks - Step 5
 Now let's install/apply Vanilla-Tweaks 
@@ -141,7 +141,7 @@ Your Antivirus software must be **disabled** during the download and installatio
 </details>
 
 <details>
-<summary> Step 7 - DL Async Patch </summary>
+<summary> Step 7 - Download DXVK "Async Patch" </summary>
 
 ## Client Tweaks - Step 7
 Now we'll add the **optional** "Async Patch" to our previously installed DXVK from Client Tweaks - Step 1-3
