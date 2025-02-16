@@ -184,3 +184,40 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 
 [![Video](https://github.com/TWGuide/client-tweaks/Media/Step8.png)](https://github.com/user-attachments/assets/ae81090e-f6f9-4515-8430-72bbf34bd8ce)
 </details>
+
+<details>
+<summary> Step 9 - Done </summary>
+
+### Thanks for checking out my guide, I really hope it helped you and I also hope you liked it!
+
+Don't forget to re-enable your **Anti-virus software** once you've downloaded and installed these mods, and excluded/whitelisted the turtlewow game folder!
+
+**Also remember that from now on VanillaFixes.exe should be used to start the game, otherwise all of these tweaks and mods will not be enabled!**
+
+-Peachoo/Ieaiaio
+
+</details>
+
+<details>
+<summary> Additional Mods </summary>
+
+As mentioned, there are other mods out there which can be added very easily now that we have VanillaFixes installed.  
+
+**Great additional Tweaks/Mods:**  
+* **[Interact](<https://github.com/luskanek/Interact>):** Adds the "Interact Key" feature from modern WoW to the 1.12 client  
+> This mod was primarily made for use with the Steam Deck, but it can be useful to anyone!  
+
+* **[Nampower](<https://github.com/pepopo978/nampower>):**  Fixes a flaw in the 1.12 client which can lead to a DPS increase for casters with high ping  
+> The above link is a forked version which is in it's beta phase, the original can be found [here](<https://github.com/namreeb/nampower>)  
+> I suggest trying pepopo978's fork (the bold link above), as it has more features and a [companion addon](<https://github.com/pepopo978/nampowersettings>) for in-game configuration!  
+
+* **[VanillaMultiMonitorFix](<https://github.com/Mates1500/VanillaMultiMonitorFix>):** Fix for multi monitor setups with differing resolutions for the 1.12 client  
+> Adding this to the list just in case VanillaFixes didn't already fix this issue for you. I didn't personally need this fix, but maybe some do.  
+
+* **[UnitXP SP3](<https://github.com/allfoxwy/UnitXP_SP3>):** Attempts to modernize the Vanilla 1.12 client
+> Adds features like nameplates that hide when not in line of sight, better tab target functionality, and more!  
+> Comes with a [companion addon](<https://github.com/allfoxwy/UnitXP_SP3_Addon>) for in-game configuration  
+
+**VanillaMultiMonitorFix.dll** & **nampower.dll** can simply be dropped into TurtleWoW game folder **without** further configuration, as they are already included in the **dlls.txt** file out of the box.
+**UnitXP & Interact** requires their DLL files to be added to the **dlls.txt** file in your TurtleWoW game folder, simply add `interact.dll` & `unitxp_sp3.dll` to the bottom of the text file
+</details>
