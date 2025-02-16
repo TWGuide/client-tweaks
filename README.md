@@ -15,7 +15,7 @@ Information regarding each individual tweak/mod can be found via the links provi
 There are several additional tweaks/mods out there, but these are the most essential ones that I would recommend to every single player.  
 
 <details>
-<summary> Step 1 (Click me) </summary>
+<summary> Step 1 - Disable AV </summary>
 
 ## Client Tweaks - Step 1
 
@@ -37,18 +37,13 @@ This is to ensure that Windows Defender (or any other antivirus software you may
 7. Confirm in **Exclusions** list that the game folder was added successfully
 
 
-[![Video](https:// github.com/TWGuide/client-tweaks/blob/1373a7610fa840d2408df6e748ee86031cc4d3da/Media/Step1.png)
-
-[![Video](https://github.com/TWGuide/client-tweaks/Media/Step1.png)](https://raw.githubusercontent.com/TWGuide/client-tweaks/main/media/step-1.mp4)
-
-### TEST
-[![Video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step1.png)](https://github.com/user-attachments/assets/a9a1e95a-dd7f-454e-97ce-10fe912f5f5e)
 
 </details>
 
 
 <details>
-<summary> Step 2 (Click me) </summary>
+<summary> Step 2 - Download VF </summary>
 
 ## Client Tweaks - Step 2
 Now, let's download our first actual client tweak, we'll start with VanillaFixes!
@@ -60,12 +55,12 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 > (*DXVK version highly recommended, if it doesn't work you can just delete d3d9.dll from your TurtleWoW game folder later*)
 2. Save the VanillaFixes zip file somewhere you will be able to find it for the next step
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1325998709636595812/Step-2.mp4?ex=677dd408&is=677c8288&hm=34d5bd8f3464ddb38105809202b1501c35d1b21e45c5bf831dd1772cd9efdb9f&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step2.png)](https://github.com/user-attachments/assets/9424cdbc-5721-4c86-a063-650d5fd7ffcb)
 </details>
 
 
 <details>
-<summary> Step 3 (Click me) </summary>
+<summary> Step 3 - Extract VF </summary>
 
 ## Client Tweaks - Step 3
 Time to extract VanillaFixes and place it in the game folder!
@@ -80,11 +75,11 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 
 **Important note:** From now on we will use VanillaFixes.exe to start the game, otherwise all of these tweaks and mods will not be enabled!
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326001882455478304/Step-3.mp4?ex=677dd6fc&is=677c857c&hm=07b9c37402a712511d4803f15821443028e897eeecbb97faa08d897709640f30&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step3.png)](https://github.com/user-attachments/assets/c6c09a0f-95f5-4e80-93b5-3c4e864ae25e)
 </details>
 
 <details>
-<summary> Step 4 (Click me) </summary>
+<summary> Step 4 - Download VT </summary>
 
 ## Client Tweaks - Step 4  
 Now let's download Vanilla-Tweaks  
@@ -97,11 +92,11 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 2. **Save** the zip file to your computer
 3. **Locate** and **extract** the Vanilla-Tweaks zip file
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326014509290229792/Step-6_DL_VT.mp4?ex=677de2bf&is=677c913f&hm=e09fe6a4286a8a367d3b52a2539c362401cd5d8c29fc15d66a434ee2d63e6f56&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step4.png)](https://github.com/user-attachments/assets/ab156f4b-ea97-4e80-b1ee-d301dc1b271f)
 </details>
 
 <details>
-<summary> Step 5 (Click me) </summary>
+<summary> Step 5 - Apply VT </summary>
 
 ## Client Tweaks - Step 5
 Now let's install/apply Vanilla-Tweaks 
@@ -118,11 +113,11 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 6. **Rename** the new **WoW_Tweaked.exe** file to **WoW.exe**
 7. If everything was done correctly, **Vanilla-Tweaks is now installed successfully**
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326020171600629760/Step-7_Apply_VT.mp4?ex=677de805&is=677c9685&hm=9c82c4974388270accbd432f3d19b2aee269133f76bcd04aa1c523cfc2e7a2a2&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step5.png)](https://github.com/user-attachments/assets/475d4148-d0c1-497f-82a1-5c5c35e524f7)
 </details>
 
 <details>
-<summary> Step 6 (Click me) </summary>
+<summary> Step 6 - SuperWoW </summary>
 
 ## Client Tweaks - Step 6
 Now let's download and install SuperWoW
@@ -142,11 +137,11 @@ Your Antivirus software must be **disabled** during the download and installatio
 > GitAddonsManager install + usage info can be found [here](<https://turtle-wow.fandom.com/wiki/Addons#How_to_Install_Addons>)
 
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326025167939309598/Step-8_SuperWoW.mp4?ex=677decac&is=677c9b2c&hm=c416c662a2700231d0903603a220a3a153d685b612dca48e045beeb779023e22&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step6.png)](https://github.com/user-attachments/assets/97e6850a-41a9-4263-9de5-0addc3ca84a6)
 </details>
 
 <details>
-<summary> Step 7 (Click me) </summary>
+<summary> Step 7 - DL Async Patch </summary>
 
 ## Client Tweaks - Step 7
 Now we'll add the **optional** "Async Patch" to our previously installed DXVK from Client Tweaks - Step 1-3
@@ -163,11 +158,11 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 5. If prompted, select **Yes/Replace** when asked if you'd like to **replace** the existing **d3d9.dll** that came bundled with **VanillaFixes-DXVK**
 
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326062405234589706/Step-4_Async.mp4?ex=677e0f5a&is=677cbdda&hm=0444aa12899797fe5b99eea424ed2acf825645586a5d863dcb1834050ac397b9&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step7.png)](https://github.com/user-attachments/assets/8c9dedf0-dec5-4f4d-9b22-db7fd140751b)
 </details>
 
 <details>
-<summary> Step 8 (Click me) </summary>
+<summary> Step 8 - DXVK Config </summary>
 
 ## Client Tweaks - Step 8
 This is the final step of the entire guide! 
@@ -187,5 +182,5 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 **If you for some reason wish to revert the Async Patch, set** `dxvk.enableAsync = True` **to** `dxvk.enableAsync = False`
 
 
-[Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326067888255406150/Step-5_Async_Conf.mp4?ex=677e1475&is=677cc2f5&hm=184b00eae45644bc0f3b6a66312d6a03bba4bb6cc327f5e9df1384b175998eef&)
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step8.png)](https://github.com/user-attachments/assets/ae81090e-f6f9-4515-8430-72bbf34bd8ce)
 </details>
