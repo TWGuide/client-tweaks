@@ -37,7 +37,13 @@ This is to ensure that Windows Defender (or any other antivirus software you may
 7. Confirm in **Exclusions** list that the game folder was added successfully
 
 
-![Video](https://cdn.discordapp.com/attachments/1317115547749580824/1325992839934644244/Step-1.mp4?ex=677dce90&is=677c7d10&hm=31e5efe37b22919329add4df71a7e363883cbd2bee2349435dc3ceeeeddc46da&)
+[![Video](https:// github.com/TWGuide/client-tweaks/blob/1373a7610fa840d2408df6e748ee86031cc4d3da/Media/Step1.png)
+
+[![Video](https://github.com/TWGuide/client-tweaks/Media/Step1.png)](https://raw.githubusercontent.com/TWGuide/client-tweaks/main/media/step-1.mp4)
+
+### TEST
+[![Video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+
 </details>
 
 
