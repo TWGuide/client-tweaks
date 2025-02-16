@@ -17,12 +17,12 @@ There are several additional tweaks/mods out there, but these are the most essen
 <details>
 <summary> Step 1 (Click me) </summary>
 
-# Client Tweaks - Step 1
+## Client Tweaks - Step 1
 
 Before we start we must disable our Antivirus software and add TurtleWoW's game folder to exclusions.  
 This is to ensure that Windows Defender (or any other antivirus software you may have) doesn't delete any of the files.  
-> [!NOTE]
-> The explanation for why AV software false flags VanillaFixes can be found on the [VanillaFixes - Releases](<https://github.com/hannesmann/vanillafixes/releases>) page.  
+
+**The explanation for why AV software false flags VanillaFixes can be found on the [VanillaFixes - Releases](<https://github.com/hannesmann/vanillafixes/releases>) page.**  
 
 > In short, there's no way for antivirus software to differentiate between VanillaFixes, which *we want* to inject the mod DLL's into our game, and a malicious DLL injector that would be used for nefarious purposes. As a result it considers VanillaFixes a virus/malware even though it's not. 
 
@@ -33,12 +33,13 @@ This is to ensure that Windows Defender (or any other antivirus software you may
 4. Scroll down to **Exclusions** and click **Add or remove exclusions**
 5. Click **+ Add an exclusion** and select **Folder**
 6. Navigate to your TurtleWoW installation folder and hit **Select Folder**
--# for example "G:\TWoW\twmoa_1172" as seen in the video below
+> for example "G:\TWoW\twmoa_1172" as seen in the video below
 7. Confirm in **Exclusions** list that the game folder was added successfully
 
 
 ![Video](https://cdn.discordapp.com/attachments/1317115547749580824/1325992839934644244/Step-1.mp4?ex=677dce90&is=677c7d10&hm=31e5efe37b22919329add4df71a7e363883cbd2bee2349435dc3ceeeeddc46da&)
 </details>
+
 
 <details>
 <summary> Step 2 (Click me) </summary>
@@ -50,11 +51,12 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 
 ### These are the steps shown in the video below:
 1. Head on over to **GitHub** and download the latest version of [**VanillaFixes**](<https://github.com/hannesmann/vanillafixes/releases>) 
--# (*DXVK version highly recommended, if it doesn't work you can just delete d3d9.dll from your TurtleWoW game folder later*)
+> (*DXVK version highly recommended, if it doesn't work you can just delete d3d9.dll from your TurtleWoW game folder later*)
 2. Save the VanillaFixes zip file somewhere you will be able to find it for the next step
 
 [Video](https://cdn.discordapp.com/attachments/1317115547749580824/1325998709636595812/Step-2.mp4?ex=677dd408&is=677c8288&hm=34d5bd8f3464ddb38105809202b1501c35d1b21e45c5bf831dd1772cd9efdb9f&)
 </details>
+
 
 <details>
 <summary> Step 3 (Click me) </summary>
@@ -78,11 +80,11 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 <details>
 <summary> Step 4 (Click me) </summary>
 
-## Client Tweaks - Step 4
-Now let's download Vanilla-Tweaks 
--# Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher
+## Client Tweaks - Step 4  
+Now let's download Vanilla-Tweaks  
+> Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher  
 
-For this step it **doesn't matter** whether your antivirus software is **enabled** or **disabled**
+For this step it **doesn't matter** whether your antivirus software is **enabled** or **disabled**  
 
 ### These are the steps shown in the video below:
 1. Head on over to **GitHub** and download [**Vanilla-Tweaks**](<https://github.com/brndd/vanilla-tweaks/releases>) for Windows
@@ -97,7 +99,7 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 
 ## Client Tweaks - Step 5
 Now let's install/apply Vanilla-Tweaks 
--# Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher
+> Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher
 
 For this step it **doesn't matter** whether your antivirus software is **enabled** or **disabled**
 
@@ -120,18 +122,18 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 Now let's download and install SuperWoW
 
 Your Antivirus software must be **disabled** during the download and installation of **SuperWoW**
--# If you need a reminder on how to disable Windows Defender, scroll back up and refer to the **Client Tweaks - Step 1** part of the guide
+> If you need a reminder on how to disable Windows Defender, scroll back up and refer to the **Client Tweaks - Step 1** part of the guide
 
 ### These are the steps shown in the video below:
 1. Head on over to **GitHub** and download the latest version of [**SuperWoW**](<https://github.com/balakethelock/SuperWoW/releases>) 
--# Ignore the "SuperWoW mpq patch"
+> Ignore the "SuperWoW mpq patch"
 2. **Extract** the SuperWoW zip file contents
 3. **Move/copy** only **SuperWoWHook.dll** over to the **TurtleWoW game folder**
--# We do not need the SuperWoWLauncher since VanillaFixes will already detect and load SuperWoWHook.dll
+> We do not need the SuperWoWLauncher since VanillaFixes will already detect and load SuperWoWHook.dll
 4. If everything was done correctly, **SuperWoW is now successfully installed**
--# Although in order to see the in-game configuration menu, you also need to download and install the [SuperAPI](<https://github.com/balakethelock/SuperAPI>) addon
--# Install SuperAPI like any regular addon. Extract and place files into twow > interface > addons, or by using the [GitAddonsManager](<https://woblight.gitlab.io/overview/gitaddonsmanager/>) (recommended)
--# GitAddonsManager install + usage info can be found [here](<https://turtle-wow.fandom.com/wiki/Addons#How_to_Install_Addons>)
+> Although in order to see the in-game configuration menu, you also need to download and install the [SuperAPI](<https://github.com/balakethelock/SuperAPI>) addon
+> Install SuperAPI like any regular addon. Extract and place files into twow > interface > addons, or by using the [GitAddonsManager](<https://woblight.gitlab.io/overview/gitaddonsmanager/>) (recommended)
+> GitAddonsManager install + usage info can be found [here](<https://turtle-wow.fandom.com/wiki/Addons#How_to_Install_Addons>)
 
 
 [Video](https://cdn.discordapp.com/attachments/1317115547749580824/1326025167939309598/Step-8_SuperWoW.mp4?ex=677decac&is=677c9b2c&hm=c416c662a2700231d0903603a220a3a153d685b612dca48e045beeb779023e22&)
@@ -142,13 +144,13 @@ Your Antivirus software must be **disabled** during the download and installatio
 
 ## Client Tweaks - Step 7
 Now we'll add the **optional** "Async Patch" to our previously installed DXVK from Client Tweaks - Step 1-3
--# Although this is a completely optional step, I strongly recommend that you try it out as it gives a very significant performance boost (big bump up in FPS, and a much smoother/more responsive game)
+> Although this is a completely optional step, I strongly recommend that you try it out as it gives a very significant performance boost (big bump up in FPS, and a much smoother/more responsive game)
 
 It doesn't matter whether your antivirus software is enabled or disabled for these steps
 
 ### These are the steps shown in the video below:
 1. **Download** and **extract** the [**DXVK Async Patch**](https://tretrauit.me/dxvk-async-builder/) 
--# If the link above is broken, try **[this](<https://tretrauit.gitlab.io/dxvk-async-builder//>)** instead
+> If the link above is broken, try **[this](<https://tretrauit.gitlab.io/dxvk-async-builder//>)** instead
 2. **Open** the **extracted folder** and find the folder inside named **x32**
 3. Inside the **x32** folder, **copy d3d9.dll**
 4. Place **d3d9.dll** into your **TurtleWoW game folder**
@@ -171,8 +173,8 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 1. **Navigate** to your **TurtleWoW game folder**
 2. **Open/edit** the **dxvk.conf** file with a text editor such as **Notepad**
 3.  **Replace** all the text inside the file with the text found [**here**](<https://pastebin.com/SgsqegeQ>)
--# The above configuration should work for most users without any issues. However, do NOT increase the framerate limit to higher than 245 as this will cause graphical issues.
--# If you prioritize energy savings over performance, lower the d3d9.maxFrameRate = 245 to match your monitor's refresh rate (common refresh rates are 60, 120, and 144).
+> The above configuration should work for most users without any issues. However, do NOT increase the framerate limit to higher than 245 as this will cause graphical issues.
+> If you prioritize energy savings over performance, lower the d3d9.maxFrameRate = 245 to match your monitor's refresh rate (common refresh rates are 60, 120, and 144).
 4. **Save** and close the **text editor**
 5.  If done correctly, **DXVK Async Patch is now successfully installed**
 
