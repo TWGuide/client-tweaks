@@ -8,7 +8,7 @@ The Vanilla WoW 1.12.1 client that Turtle WoW is built upon is now nearly 20 yea
 Information regarding each individual tweak/mod can be found via the links provided below.  
 
 ### This guide includes step-by-step guidance on how to install the following tweaks/mods:  
-* [VanillaFixes](<https://github.com/hannesmann/vanillafixes>) (+ [DXVK](<https://github.com/doitsujin/dxvk>))  
+* [VanillaFixes](<https://github.com/hannesmann/vanillafixes>) (+ [DXVK](<https://github.com/doitsujin/dxvk>) which comes bundled in with VanillaFixes)  
 * [Vanilla-Tweaks](<https://github.com/brndd/vanilla-tweaks>)  
 * [SuperWoW](<https://github.com/balakethelock/SuperWoW>) (+ [SuperAPI](<https://github.com/balakethelock/SuperAPI>) for in-game options)  
 
