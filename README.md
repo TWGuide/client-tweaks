@@ -196,13 +196,16 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 
 Don't forget to re-enable your **Anti-virus software** once you've downloaded and installed these mods, and excluded/whitelisted the turtlewow game folder!
 
-**Also remember that from now on VanillaFixes.exe should be used to start the game, otherwise all of these tweaks and mods will not be enabled!**
+Also remember that from now on ***VanillaFixes.exe should be used to start the game***, otherwise all of these tweaks and mods will not be enabled!
 
 -Peachoo/Ieaiaio
 
 </details>
 
 <details>
+
+---
+
 <summary> Additional Mods </summary>
 
 As mentioned, there are other mods out there which can be added very easily now that we have VanillaFixes installed.  
@@ -222,6 +225,6 @@ As mentioned, there are other mods out there which can be added very easily now 
 > Adds features like nameplates that hide when not in line of sight, better tab target functionality, and more!  
 > Comes with a [companion addon](<https://github.com/allfoxwy/UnitXP_SP3_Addon>) for in-game configuration  
 
-**VanillaMultiMonitorFix.dll** & **nampower.dll** can simply be dropped into TurtleWoW game folder **without** further configuration, as they are already included in the **dlls.txt** file out of the box.
-**UnitXP & Interact** requires their DLL files to be added to the **dlls.txt** file in your TurtleWoW game folder, simply add `interact.dll` & `unitxp_sp3.dll` to the bottom of the text file
+**VanillaMultiMonitorFix.dll** & **nampower.dll** can simply be dropped into TurtleWoW game folder **without** further configuration, as they are already included in the **dlls.txt** file out of the box.  
+**UnitXP & Interact** requires their DLL files to be added to the **dlls.txt** file in your TurtleWoW game folder, simply add `interact.dll` & `unitxp_sp3.dll` to the bottom of the text file.
 </details>
