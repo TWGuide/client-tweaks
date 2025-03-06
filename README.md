@@ -19,11 +19,12 @@ Information regarding each individual tweak/mod can be found via the links provi
 
 There are several additional tweaks/mods out there, but these are the most essential ones that I would recommend to every single player.  
 
-## Graphics Cards that require special installation files:
+## Graphics Cards that require special installation files or that have other important notes:
 | GPU  | Graphics Card Models | Working DXVK Version |
 | --- | --- | --- |
 | AMD Polaris | AMD RX 400 and 500 series | [GPLAsync 2.4.1-1](https://gitlab.com/Ph42oN/dxvk-gplasync/-/releases/v2.4.1-1) ([Expand Assets](https://i.imgur.com/mrKShpV.png) to download) |
-|  |  | |
+| Nvidia | Pre RTX 2000 series | No special files, just not good performance |
+
 
 <details>
 <summary> Step 1 - Disable AV </summary>
