@@ -7,8 +7,9 @@ The Vanilla WoW 1.12.1 client that Turtle WoW is built upon is now nearly 20 yea
 
 Information regarding each individual tweak/mod can be found via the links provided below.  
 
-> This guide assumes you are using an **_AMD_** or **_Nvidia_** graphics card.  
-> For _Intel HD Graphics_ users (usually laptops) the Async Patch in Step 7 and Step 8 **_will NOT work_.**  
+>[!WARNING]
+> This guide assumes you are using an **AMD** or **Nvidia** graphics card on Windows.  
+> For **Intel HD Graphics** users (usually laptops) the Async Patch in Step 7 and Step 8 **probably won't work.**  
 > You're free to try these tweaks regardless, but things might break if you are not using AMD/Nvidia GPUs from ~2014 or later.  
 
 
