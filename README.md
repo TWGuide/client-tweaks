@@ -30,7 +30,7 @@ There are several additional tweaks/mods out there, but these are the most essen
 <details>
 <summary> Step 1 - Disable AV </summary>
 
-## Client Tweaks - Step 1
+# Client Tweaks - Step 1
 
 Before we start we must disable our Antivirus software and add TurtleWoW's game folder to exclusions.  
 This is to ensure that Windows Defender (or any other antivirus software you may have) doesn't delete any of the files.  
@@ -58,7 +58,7 @@ This is to ensure that Windows Defender (or any other antivirus software you may
 <details>
 <summary> Step 2 - Download VanillaFixes </summary>
 
-## Client Tweaks - Step 2
+# Client Tweaks - Step 2
 Now, let's download our first actual client tweak, we'll start with VanillaFixes!
 
 Confirm that your antivirus software is still temporarily **disabled** during the download and installation of **VanillaFixes**
@@ -75,7 +75,7 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 <details>
 <summary> Step 3 - Extract VanillaFixes </summary>
 
-## Client Tweaks - Step 3
+# Client Tweaks - Step 3
 Time to extract VanillaFixes and place it in the game folder!
 
 Confirm that your antivirus software is still temporarily **disabled** during the download and installation of **VanillaFixes**
@@ -86,7 +86,21 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 3. **Move**/**copy** the extracted files over to your **TurtleWoW game folder**
 4. If everything was done correctly, **VanillaFixes/VanillaFixes-DXVK is now successfully installed**
 
-**Important note:** From now on we will use VanillaFixes.exe to start the game, otherwise all of these tweaks and mods will not be enabled!
+### **Important note:** From now on we will use VanillaFixes.exe to start the game, otherwise all of these tweaks and mods will not be enabled!
+
+---
+
+## April 2025 Update: dlls.txt now also needs to be edited, simply open it using any text editor such as Notepad, and add:
+```
+twdiscord.dll
+vfpatcher.dll
+nampower.dll
+SuperWoWhook.dll
+interact.dll
+unitxp_sp3.dll
+VanillaMultiMonitorFix.dll
+```
+**Several of these DLL mods are not covered in this guide, but we add them anyway as there are no downsides to this, and this makes them easier to install later for those who want them**
 
 [![Video](https://github.com/TWGuide/client-tweaks/Media/Step3.png)](https://github.com/user-attachments/assets/c6c09a0f-95f5-4e80-93b5-3c4e864ae25e)
 </details>
@@ -94,7 +108,7 @@ Confirm that your antivirus software is still temporarily **disabled** during th
 <details>
 <summary> Step 4 - Download Vanilla-Tweaks </summary>
 
-## Client Tweaks - Step 4  
+# Client Tweaks - Step 4  
 Now let's download Vanilla-Tweaks  
 > Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher  
 
@@ -111,7 +125,7 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 <details>
 <summary> Step 5 - Apply Vanilla-Tweaks </summary>
 
-## Client Tweaks - Step 5
+# Client Tweaks - Step 5
 Now let's install/apply Vanilla-Tweaks 
 > Although Vanilla-Tweaks is now built into the launcher, we'll do a regular installation for the sake of consistency and avoid the TurtleWoW.exe launcher
 
@@ -132,7 +146,7 @@ For this step it **doesn't matter** whether your antivirus software is **enabled
 <details>
 <summary> Step 6 - SuperWoW </summary>
 
-## Client Tweaks - Step 6
+# Client Tweaks - Step 6
 Now let's download and install SuperWoW
 
 Your Antivirus software must be **disabled** during the download and installation of **SuperWoW**
@@ -156,7 +170,7 @@ Your Antivirus software must be **disabled** during the download and installatio
 <details>
 <summary> Step 7 - Download DXVK "Async Patch" </summary>
 
-## Client Tweaks - Step 7
+# Client Tweaks - Step 7
 Now we'll add the **optional** "Async Patch" to our previously installed DXVK from Client Tweaks - Step 1-3
 > Although this is a completely optional step, I strongly recommend that you try it out as it gives a very significant performance boost (big bump up in FPS, and a much smoother/more responsive game)
 
@@ -171,13 +185,15 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 5. If prompted, select **Yes/Replace** when asked if you'd like to **replace** the existing **d3d9.dll** that came bundled with **VanillaFixes-DXVK**
 
 
+### If you wish to revert the Async Patch, set `dxvk.enableAsync = True` to `dxvk.enableAsync = False`
+
 [![Video](https://github.com/TWGuide/client-tweaks/Media/Step7.png)](https://github.com/user-attachments/assets/8c9dedf0-dec5-4f4d-9b22-db7fd140751b)
 </details>
 
 <details>
 <summary> Step 8 - DXVK Config </summary>
 
-## Client Tweaks - Step 8
+# Client Tweaks - Step 8
 This is the final step of the entire guide! 
 Lastly we will adjust the DXVK configuration file to actually enable Async and some other stuff!
 
@@ -192,7 +208,7 @@ It doesn't matter whether your antivirus software is enabled or disabled for the
 4. **Save** and close the **text editor**
 5.  If done correctly, **DXVK Async Patch is now successfully installed**
 
-**If you for some reason wish to revert the Async Patch, set** `dxvk.enableAsync = True` **to** `dxvk.enableAsync = False`
+### If you wish to revert the Async Patch, set `dxvk.enableAsync = True` to `dxvk.enableAsync = False`
 
 
 [![Video](https://github.com/TWGuide/client-tweaks/Media/Step8.png)](https://github.com/user-attachments/assets/ae81090e-f6f9-4515-8430-72bbf34bd8ce)
